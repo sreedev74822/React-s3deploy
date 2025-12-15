@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>hai sreedevss</div>
+      <div>hai sreedevs</div>
     </>
   )
 }
